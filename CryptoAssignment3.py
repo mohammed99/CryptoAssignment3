@@ -244,7 +244,7 @@ def des_encrypt(plaintext, key):
 # Main execution
 if __name__ == "__main__":
     # Given values
-    K = "00010011001101000101011101111001100110111011111011101000"  # 64-bit key
+    K = "0001001100110100010101110111100110011011101111001101111111110001"  # 64-bit key
     M = "0123456789ABCDEF"  # Message in hex
     
     print("=== DES Encryption ===")
